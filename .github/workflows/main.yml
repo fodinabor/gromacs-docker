@@ -5,12 +5,12 @@ env:
   # docker_repo:   This must be changed between forks.  This should be the
   #                dockerhub repository you will be using to register the
   #                docker containers to.
-  docker_repo: gromacs/gromacs
+  docker_repo: fodinabor/gromacs
 
   # Here you can specify the versions of the
   # various parameters, such as gcc or cuda.
   fftw: 3.3.8
-  gromacs: 2022.2
+  gromacs: 2022.5
   cmake: 3.17.1
   gcc: 8
   cuda: 11.6.0
