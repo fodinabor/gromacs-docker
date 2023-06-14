@@ -12,7 +12,7 @@ env:
   fftw: 3.3.8
   gromacs: 2022.5
   cmake: 3.17.1
-  gcc: 12
+  gcc: 10
   cuda: 11.6.0
   openmpi: 4.0.0
   ubuntu: 20.04
